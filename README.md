@@ -1,7 +1,7 @@
 # data-bootcamp-final-project
-### Analysis of the Hang Seng AH Premium Index
+## Analysis of the Hang Seng AH Premium Index
 
-
+#### NYU Stern Honor Code
 This project was completed by Cory Michael Peshkin in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2019. I certify that the NYU Stern Honor Code applies to this project.
 
 In particular, I have:
@@ -13,6 +13,8 @@ And I understand that:
 Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
+
+#### Project Description
 The Hang Seng China AH Premium Index (“AH Premium”) represents the ratio, at a given time, of the premium the market has priced into Chinese “A+H shares”. A+H shares represent companies with which have floated shares simultaneously in Hong Kong (H shares denominated in Hong Kong Dollar) and in mainland China (A shares denominated in Chinese yuan renminbi; listed on either the Shanghai or Shenzhen Stock Exchanges). The AH Premium is calculated with market capitalization-weighting and free-float adjusted shares outstanding.
 
 
